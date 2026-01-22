@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-export VERSION="10.05.1"
+export VERSION="10.06.0"
 
 dnf install -y gcc tar
 cd /tmp/
